@@ -4,6 +4,7 @@ Introduction for the following work(s):
 
 
 ## 📰 News
+* **[Jul. , 2025]**: An agentic ARCA is on the way, featuring multi-modal data processing and reasoning-based decition making.
 * **[Feb. , 2025]**: Our initial work of [ARCA](https://github.com/yw2399/arca/blob/main/paper/ARCA_EuroMLSys.pdf) has been accepted by [EuroMLSys 2025](https://euromlsys.eu/) for oral presentation.
 * **[Jan. , 2024]**: ARCA-PoC has been evaluated and it reports the SOTA F-1 score as a log-clustering tool.
 * **[Dec. , 2024]**: We have implemented ARCA-PoC, the proof of concept tool featuring an implementation using RAG LLM.
